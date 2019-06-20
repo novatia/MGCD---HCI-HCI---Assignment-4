@@ -1,7 +1,6 @@
-# MCGD---GraphicProgramming-SSAO
+# MGCD---HCI-HCI---Assignment-4
 
-![alt text](https://github.com/novatia/MCGD---GraphicProgramming-SSAO/blob/master/image.JPG)
-![alt text](https://github.com/novatia/MCGD---GraphicProgramming-SSAO/blob/master/image2.JPG)
+![alt text](https://github.com/novatia//MGCD---HCI-HCI---Assignment-4/blob/master/demo.JPG)
 
 <h1>VUFORIA for Unity Test</h1>
 </br>
